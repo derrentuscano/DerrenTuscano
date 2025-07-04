@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I’m a dedicated developer with a love for buildi
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Derren%20Tuscano-blue?logo=linkedin)](https://www.linkedin.com/in/derrentuscano)
-[![Instagram](https://img.shields.io/badge/Instagram-derrentuscano-E4405F?logo=instagram&logoColor=white)](https://instagram.com/derrentuscano)
+[![Instagram](https://img.shields.io/badge/Instagram-derrentuscano-E4405F?logo=instagram&logoColor=white)](https://instagram.com/derren,tuscano)
 
 ---
 

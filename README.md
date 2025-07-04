@@ -2,8 +2,6 @@
 
 ### 🚀 Passionate Developer from India
 
-![Profile Views](https://komarev.com/ghpvc/?username=derrentuscano&label=Profile%20views&color=0e75b6&style=flat)
-
 Welcome to my GitHub profile! I’m a dedicated developer with a love for building impactful solutions and learning new technologies.
 
 ---
@@ -22,7 +20,7 @@ Welcome to my GitHub profile! I’m a dedicated developer with a love for buildi
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Derren%20Tuscano-blue?logo=linkedin)](https://www.linkedin.com/in/derrentuscano)
-[![Instagram](https://img.shields.io/badge/Instagram-derrentuscano-E4405F?logo=instagram&logoColor=white)](https://instagram.com/derren,tuscano)
+[![Instagram](https://img.shields.io/badge/Instagram-derrentuscano-E4405F?logo=instagram&logoColor=white)](https://instagram.com/derren.tuscano)
 
 ---
 

@@ -1,6 +1,6 @@
 # Hi 👋, I'm Derren Tuscano
 
-### 🚀 Passionate Developer from India
+### 🚀 Passionate Software Developer from India
 
 Welcome to my GitHub profile! I’m a dedicated developer with a love for building impactful solutions and learning new technologies.
 

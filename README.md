@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m a dedicated developer with a love for buildi
 
 ## 🔥 About Me
 
-- 🔭 I’m currently working on **Inventory System Capstone Project**
+- 🔭 I’m currently working on **Making Python Projects**
 - 🌱 I’m currently learning **Full Stack Development**
 - 👯 I’m looking to collaborate on projects where I can apply my knowledge and contribute effectively
 - 🤝 I’m looking for help with **Learning AI & ML**
